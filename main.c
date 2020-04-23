@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 // nanopb
-#include "protobuf/pb_encode.h"
-#include "protobuf/pb_decode.h"
+#include "pb_encode.h"
+#include "pb_decode.h"
 
 #define BUF_SIZE 128
 // TODO add more variables
