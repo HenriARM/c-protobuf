@@ -8,8 +8,8 @@ gcc/cc, will not work in MacOS
 
 Clone repository, run Makefile and run exe file:
 
-```
+~~~
 cd c-protobuf
 make
 ./main
-```
+~~~
